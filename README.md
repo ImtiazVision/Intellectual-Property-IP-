@@ -5,3 +5,5 @@
 **Copyright** : safeguards the uniqueness of literary and creative expression.
 
 **Trademark** : is a symbol that identifies the source of products and services and differentiates them from those of others. It's not only about words, labels, or logos. A sound or a three-dimensional mark might be used.
+
+**Trade Secret** : Formal company methods, technological processes, customer lists and profiles, business plans, algorithms, marketing techniques, and the accumulation of information that is not commonly known to the public are all examples of trade secrets. Trade secrets provide the owner with a competitive edge and should not be exposed. All trade secrets are classified as confidential information.
